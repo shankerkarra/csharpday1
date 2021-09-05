@@ -1,0 +1,16 @@
+C:\source\codeworks\late-summer-21\csharpday1\bin\Debug\net5.0\csharpday1.exe
+C:\source\codeworks\late-summer-21\csharpday1\bin\Debug\net5.0\csharpday1.deps.json
+C:\source\codeworks\late-summer-21\csharpday1\bin\Debug\net5.0\csharpday1.runtimeconfig.json
+C:\source\codeworks\late-summer-21\csharpday1\bin\Debug\net5.0\csharpday1.runtimeconfig.dev.json
+C:\source\codeworks\late-summer-21\csharpday1\bin\Debug\net5.0\csharpday1.dll
+C:\source\codeworks\late-summer-21\csharpday1\bin\Debug\net5.0\ref\csharpday1.dll
+C:\source\codeworks\late-summer-21\csharpday1\bin\Debug\net5.0\csharpday1.pdb
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\csharpday1.csproj.AssemblyReference.cache
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\csharpday1.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\csharpday1.AssemblyInfoInputs.cache
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\csharpday1.AssemblyInfo.cs
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\csharpday1.csproj.CoreCompileInputs.cache
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\csharpday1.dll
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\ref\csharpday1.dll
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\csharpday1.pdb
+C:\source\codeworks\late-summer-21\csharpday1\obj\Debug\net5.0\csharpday1.genruntimeconfig.cache
